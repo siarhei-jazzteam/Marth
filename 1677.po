@@ -46,6 +46,7 @@ msgstr ""
 msgid "AMP for Email Specification"
 msgstr ""
 
+#: /content/amp-dev/documentation/guides-and-tutorials/learn/email-spec/_blueprint.yaml
 msgid ""
 "Line 1\n"
 "Line 2\n"
