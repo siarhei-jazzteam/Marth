@@ -12,5 +12,5 @@
 - Error
 - Code
 
-<sup> And Google Groups posts, and Blogger posts, and Evernote notes, and Wordpress posts! No Dagger [See more](#compatibility).</sup><br>
+<sup> And Google Groups posts, and <em> Blogger </em> posts, and Evernote notes, and Wordpress posts! No Dagger [See more](#compatibility).</sup><br>
 <sup> And TeX mathematical formulae! No Dagger</sup>
